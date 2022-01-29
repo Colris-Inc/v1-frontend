@@ -1,15 +1,20 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Getting your brand noticed is never easier",
+  "text": "We help you connect with your audience with few easy steps.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Step - 1",
+      "content": "Decide the location and duration to your advertisement",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Step - 2",
+      "content": "Create an account and upload your video.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Step - 3",
+      "content": "Get it played in your desired location",
       "icon": "notes.svg"
     }
   ]
