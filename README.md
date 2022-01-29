@@ -1,3 +1,3 @@
 Initial website design using using React and typescript. 
 
-Thanks to the template @adrinlol. 
+Thanks to [Lasha Kakabadze](https://github.com/adrinlol) for the template. 
